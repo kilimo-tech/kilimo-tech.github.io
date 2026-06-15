@@ -32,6 +32,6 @@
 
   <!-- footer strip -->
   <rect x="0" y="566" width="1200" height="64" fill="#D99A2B"/>
-  <text x="96" y="607" font-family="'DejaVu Sans', sans-serif" font-size="28" font-weight="700" fill="#15422E">kilimo.cseco.co.ke</text>
+  <text x="96" y="607" font-family="'DejaVu Sans', sans-serif" font-size="28" font-weight="700" fill="#15422E">kilimo.tech</text>
   <text x="1104" y="607" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="24" font-weight="400" fill="#15422E">Built for African agriculture</text>
 </svg>
