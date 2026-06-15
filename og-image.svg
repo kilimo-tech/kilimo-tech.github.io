@@ -1,0 +1,37 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- background -->
+  <rect width="1200" height="630" fill="#15422E"/>
+  <rect width="1200" height="630" fill="url(#grad)"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E3122"/>
+      <stop offset="1" stop-color="#15422E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- mark, left -->
+  <g transform="translate(96, 150)">
+    <rect width="220" height="220" rx="48" fill="#1B5E3F"/>
+    <g transform="translate(110, 110) scale(0.42) translate(-256,-256)">
+      <path d="M256 448V236" stroke="#22D3C5" stroke-width="32" stroke-linecap="round"/>
+      <circle cx="256" cy="448" r="28" fill="#D99A2B"/>
+      <path d="M256 278C256 278 128 278 86 172C86 172 214 128 256 234C256 234 256 256 256 278Z" fill="#15422E"/>
+      <path d="M256 234C256 234 298 86 426 64C426 64 437 278 278 256C278 256 256 256 256 234Z" fill="#15422E"/>
+      <path d="M118 198L214 234" stroke="#5FE3D8" stroke-width="15" stroke-linecap="round"/>
+      <path d="M384 102L288 202" stroke="#5FE3D8" stroke-width="15" stroke-linecap="round"/>
+      <circle cx="118" cy="198" r="19" fill="#22D3C5"/>
+      <circle cx="384" cy="102" r="19" fill="#22D3C5"/>
+      <circle cx="256" cy="234" r="26" fill="#F7F5EF" stroke="#22D3C5" stroke-width="17"/>
+    </g>
+  </g>
+
+  <!-- wordmark + tagline -->
+  <text x="372" y="262" font-family="'Space Grotesk', 'DejaVu Sans', sans-serif" font-size="76" font-weight="700" fill="#F7F5EF">kilimo.tech</text>
+  <text x="374" y="330" font-family="'DejaVu Sans', sans-serif" font-size="34" font-weight="400" fill="#5FE3D8">Full-stack agriculture automation</text>
+  <text x="374" y="382" font-family="'DejaVu Sans', sans-serif" font-size="27" font-weight="400" fill="#C9D6CC">From seedbed to harvest — plus farm-ops software.</text>
+
+  <!-- footer strip -->
+  <rect x="0" y="566" width="1200" height="64" fill="#D99A2B"/>
+  <text x="96" y="607" font-family="'DejaVu Sans', sans-serif" font-size="28" font-weight="700" fill="#15422E">kilimo.cseco.co.ke</text>
+  <text x="1104" y="607" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="24" font-weight="400" fill="#15422E">Built for African agriculture</text>
+</svg>

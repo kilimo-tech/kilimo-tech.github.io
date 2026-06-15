@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#15422E"/>
+  <!-- stem -->
+  <path d="M256 448V236" stroke="#22D3C5" stroke-width="32" stroke-linecap="round"/>
+  <!-- root node -->
+  <circle cx="256" cy="448" r="28" fill="#D99A2B"/>
+  <!-- left leaf -->
+  <path d="M256 278C256 278 128 278 86 172C86 172 214 128 256 234C256 234 256 256 256 278Z" fill="#1B5E3F"/>
+  <!-- right leaf -->
+  <path d="M256 234C256 234 298 86 426 64C426 64 437 278 278 256C278 256 256 256 256 234Z" fill="#1B5E3F"/>
+  <!-- leaf veins / sensor links -->
+  <path d="M118 198L214 234" stroke="#5FE3D8" stroke-width="15" stroke-linecap="round"/>
+  <path d="M384 102L288 202" stroke="#5FE3D8" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="118" cy="198" r="19" fill="#22D3C5"/>
+  <circle cx="384" cy="102" r="19" fill="#22D3C5"/>
+  <!-- center seed -->
+  <circle cx="256" cy="234" r="26" fill="#F7F5EF" stroke="#22D3C5" stroke-width="17"/>
+</svg>
